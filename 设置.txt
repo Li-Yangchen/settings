@@ -1,0 +1,30 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"fade_fold_buttons": false,
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"gdi"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}
+
+
+
+{
+	"cmd": ["C:/Program Files/Python36/python3.exe","-u","$file"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.python",
+	"encoding": "utf8",
+    "env": {"PYTHONIOENCODING": "utf8"}
+}
